@@ -1,0 +1,3 @@
+Ödevde eksik bıraktığım kısım olduğunun farkındayım
+istenilen bütün veri yapılarını kullandım ama aslında sadece 
+ödevde sistemi ve organizmayı kurmam kaldı .
